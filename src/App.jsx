@@ -52,7 +52,7 @@ function App() {
         
         <button onClick={()=>{setGenarate_password(genarate_password+1)}}> generate_password</button>
         </div>
-
+        
         <div className="lowermain">
         <input className='range'
         type="range"
